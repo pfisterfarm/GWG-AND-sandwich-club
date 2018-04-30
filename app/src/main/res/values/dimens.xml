@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="detail_heading_paddingLeft">16dp</dimen>
+    <dimen name="detail_text_paddingLeft">24dp</dimen>
+    <dimen name="detail_text_paddingRight">16dp</dimen>
+    <dimen name="detail_text_paddingBottom">8dp</dimen>
+</resources>
